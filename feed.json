@@ -1,0 +1,59 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Featurepreneur Articles",
+    "home_page_url": "https://github.com/tactlabs/featurepreneur-articles/",
+    "feed_url": "https://github.com/tactlabs/featurepreneur-articles/feed.json",
+    "description": "Featurepreneur Articles - Where ML Enthusiasts can share their knowledge",
+    "items": [
+        {
+            "id": "https://github.com/tactlabs/featurepreneur-articles/2020/12/17/jeczole-a-game-of-word-building-by-sainadh/",
+            "url": "https://github.com/tactlabs/featurepreneur-articles/2020/12/17/jeczole-a-game-of-word-building-by-sainadh/",
+            "title": "Jeczole — A Game of Word Building",
+            "summary": "Be the winner with Movie knowledge within you.",
+            "date_modified": "2020-12-17T00:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/tactlabs/featurepreneur-articles/2020/12/12/linkedin-data-collection/",
+            "url": "https://github.com/tactlabs/featurepreneur-articles/2020/12/12/linkedin-data-collection/",
+            "title": "LinkedIn data collection",
+            "summary": "Collect the data like a Bee",
+            "image": "https://miro.medium.com/max/1400/1*DRxNMqd1AVhQCkd39iU02A.png",
+            "date_modified": "2020-12-12T00:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/tactlabs/featurepreneur-articles/2020/12/20/tact-coins-by-naveen/",
+            "url": "https://github.com/tactlabs/featurepreneur-articles/2020/12/20/tact-coins-by-naveen/",
+            "title": "Tact Coins - Currency of Featurepreneur",
+            "summary": "Got some Tact Coins?",
+            "date_modified": "2020-12-20T00:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/tactlabs/featurepreneur-articles/2020/12/23/docker-quick-tip-by-sakthi/",
+            "url": "https://github.com/tactlabs/featurepreneur-articles/2020/12/23/docker-quick-tip-by-sakthi/",
+            "title": "Docker - A Quick Tip",
+            "summary": "Quick tips about Docker",
+            "date_modified": "2020-12-23T00:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/tactlabs/featurepreneur-articles/2021/01/01/welcome-to-featurepreneur/",
+            "url": "https://github.com/tactlabs/featurepreneur-articles/2021/01/01/welcome-to-featurepreneur/",
+            "title": "Welcome to Featurepreneur",
+            "summary": "Spread the ML with Featurepreneur",
+            "date_modified": "2021-01-01T05:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/tactlabs/featurepreneur-articles/2020/12/28/why-i-dumped-windows-by-eswar/",
+            "url": "https://github.com/tactlabs/featurepreneur-articles/2020/12/28/why-i-dumped-windows-by-eswar/",
+            "title": "Why I dumped Windows and switched to Ubuntu?",
+            "summary": "This is how I ditched Windows and embraced Ubuntu",
+            "date_modified": "2020-12-28T00:00:00.000Z"
+        },
+        {
+            "id": "https://github.com/tactlabs/featurepreneur-articles/2020/12/25/my-journey-with-ubuntu-so-far-by-atul/",
+            "url": "https://github.com/tactlabs/featurepreneur-articles/2020/12/25/my-journey-with-ubuntu-so-far-by-atul/",
+            "title": "My Journey with Ubuntu so far",
+            "summary": "How much I enjoyed Ubuntu",
+            "date_modified": "2020-12-25T00:00:00.000Z"
+        }
+    ]
+}
