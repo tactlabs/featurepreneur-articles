@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'Mediumish',
+  title: 'Featurepreneur Articles',
   base: '/featurepreneur-articles/',
-  description: 'Blog example for Mediumish theme with VuePress',
+  description: 'Featurepreneur Articles - Where ML Enthusiasts can share their knowledge',
   logo: './assets/img/logo.png',
   theme: require.resolve('../../'),
   themeConfig: {
@@ -31,7 +31,7 @@ module.exports = {
         },
         {
           type: 'github',
-          link: 'https://github.com/wowthemesnet/mediumish-vuepress-blog-theme',
+          link: 'https://github.com/featurepreneur',
         },
         {
           type: 'gitlab',
@@ -59,7 +59,7 @@ module.exports = {
         },
         {
           type: 'twitter',
-          link: 'https://twitter.com/wowthemesnet',
+          link: '#',
         },
         {
           type: 'web',
@@ -68,28 +68,28 @@ module.exports = {
       ],
       copyright: [
         {
-          text: 'Licensed MIT.',
-          link: 'https://bootstrapstarter.com/license/',
+          text: '2020 - 2021 @ Featureprenur',
+          link: 'http://featurepreneur.com/',
         },
         {
-          text: 'Made with Mediumish - free Vuepress theme',
-          link: 'https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/',
+          text: 'Spread the ML knowledge',
+          link: 'http://featurepreneur.com/',
         },
       ],
     },
 
     sitemap: {
-      hostname: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/'
+      hostname: 'https://github.com/tactlabs/featurepreneur-articles/'
     },
     comment: {
       service: 'disqus',
       shortname: 'demowebsite',
     },
     newsletter: {
-      endpoint: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&id=8c3d2d214b'
+      endpoint: '#'
     },
     feed: {
-      canonical_base: 'https://github.com/wowthemesnet/vuepress-theme-mediumish/',
+      canonical_base: 'https://github.com/tactlabs/featurepreneur-articles/',
     },
     smoothScroll: true
   },
