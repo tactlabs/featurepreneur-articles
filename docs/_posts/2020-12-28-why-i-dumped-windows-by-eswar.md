@@ -6,7 +6,7 @@ tags:
   - blog
   - vuepress
 author: Eswara Prasad
-featuredimg: 'https://images.unsplash.com/photo-1482876555840-f31c5ebbff1c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80'
+featuredimg: 'https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1334&q=80'
 summary: For a moment she wondered how she had happened to wake so early.
 ---
 

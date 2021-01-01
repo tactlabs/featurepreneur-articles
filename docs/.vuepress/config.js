@@ -7,15 +7,15 @@ module.exports = {
   themeConfig: {
   authors: [
       {
-      name: 'Sal',
+      name: 'Naveen',
       avatar: '/assets/img/sal.jpg',
-      link: 'https://wowthemes.net/donate',
+      link: 'https://featurepreneur.com/donate',
       linktext: 'Follow',
       },
       {
-        name: 'John Doe',
+        name: 'Raja CSP',
         avatar: '/assets/img/avatar.png',
-        link: 'https://bootstrapstarter.com/',
+        link: 'https://medium.com/@rajacsp',
         linktext: 'Follow',
       },
     ],
@@ -72,7 +72,7 @@ module.exports = {
           link: 'http://featurepreneur.com/',
         },
         {
-          text: 'Spread the ML knowledge',
+          text: 'Micro appriciation platform for ML Enthusiasts',
           link: 'http://featurepreneur.com/',
         },
       ],
