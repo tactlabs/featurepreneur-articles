@@ -2,9 +2,9 @@
 title: Tact Coins - Currency of Featurepreneur
 date: 2020-12-20
 tags: 
-  - theme
-  - blog
-  - vuepress
+  - micro_appreciation
+  - tact_coin
+  - gamification
 author: Naveen
 featuredimg: 'https://miro.medium.com/max/1400/1*acndsme_NGSwSjApbJeekQ.jpeg'
 summary: Got some Tact Coins?
