@@ -6,3 +6,12 @@ This is a free VuePress Bootstrap Blogging Theme, Medium styled, fully featured:
 [View Demo](https://wowthemesnet.github.io/vuepress-theme-mediumish/) | [View Documentation](https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/)
 
 ![mediumish vuepress blogging theme](https://wowthemesnet.github.io/vuepress-theme-mediumish/assets/img/screenshot.jpg)
+
+### Base
+
+https://github.com/wowthemesnet/mediumish-vuepress-blog-theme
+
+https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/
+
+https://vuepress.vuejs.org/guide/getting-started.html#quick-start
+
