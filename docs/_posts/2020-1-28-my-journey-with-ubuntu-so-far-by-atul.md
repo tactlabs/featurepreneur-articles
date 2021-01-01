@@ -2,8 +2,8 @@
 title: My Journey with Ubuntu so far
 date: 2020-12-25
 tags: 
-  - frontmatter
-  - vuepress
+  - ubuntu
+  - linux
 author: Atul
 featuredimg: 'https://images.unsplash.com/photo-1589149098258-3e9102cd63d3?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1274&q=80'
 summary: How much I enjoyed Ubuntu

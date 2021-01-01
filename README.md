@@ -1,17 +1,14 @@
 
 # VuePress Theme Featurepreneur
 
-This is a free VuePress Bootstrap Blogging Theme, Medium styled, fully featured: multi author, search, categories, newsletter, Disqus, RSS, sitemap, TOC, Prism, 100% Github pages compatible, ready for automatic deployment.
 
-[View Demo](https://wowthemesnet.github.io/vuepress-theme-mediumish/) | [View Documentation](https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/)
 
-![featurepreneur vuepress blogging theme](https://wowthemesnet.github.io/vuepress-theme-mediumish/assets/img/screenshot.jpg)
-
-### Base
-
-https://github.com/wowthemesnet/mediumish-vuepress-blog-theme
-
-https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/
-
-https://vuepress.vuejs.org/guide/getting-started.html#quick-start
-
+### How to deploy FPR articles?
+```
+git clone https://github.com/tactlabs/featurepreneur-articles
+cd featurepreneur-articles
+yarn
+sudo vuepress dev docs
+sudo vuepress build docs
+sudo bash deploy.sh
+```

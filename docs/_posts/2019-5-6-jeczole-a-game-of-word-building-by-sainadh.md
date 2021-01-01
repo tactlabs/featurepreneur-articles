@@ -2,9 +2,10 @@
 title: Jeczole — A Game of Word Building
 date: 2020-12-17
 tags: 
-  - theme
-  - blog
-  - vuepress
+  - game
+  - featurepreneur_games
+  - gamification
+  - word_building
 author: Sainadh Akula
 featuredimg: 'https://miro.medium.com/max/1400/1*lMcqBhM60GOqL6YMB2jBeQ.jpeg'  
 summary: Be the winner with Movie knowledge within you.

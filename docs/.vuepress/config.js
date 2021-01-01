@@ -8,16 +8,48 @@ module.exports = {
   authors: [
       {
       name: 'Naveen',
-      avatar: '/assets/img/sal.jpg',
+      avatar: 'https://avatarfiles.alphacoders.com/145/thumb-145059.png',
       link: 'https://featurepreneur.com/donate',
       linktext: 'Follow',
       },
       {
         name: 'Raja CSP',
-        avatar: '/assets/img/avatar.png',
+        avatar: 'https://avatarfiles.alphacoders.com/169/thumb-169234.png',
         link: 'https://medium.com/@rajacsp',
         linktext: 'Follow',
       },
+      {
+        name: 'Sainadh Akula',
+        avatar: 'https://avatarfiles.alphacoders.com/211/thumb-211527.png',
+        link: 'https://medium.com/@rajacsp',
+        linktext: 'Follow',
+      },
+      {
+        name: 'Divya',
+        avatar: 'https://avatarfiles.alphacoders.com/805/thumb-80592.png',
+        link: 'https://divya07msd.medium.com/',
+        linktext: 'Follow',
+      },
+      {
+        name: 'Eswara Prasad',
+        avatar: 'https://avatarfiles.alphacoders.com/201/thumb-201668.png',
+        link: 'https://divya07msd.medium.com/',
+        linktext: 'Follow',
+      },
+      {
+        name: 'Atul',
+        avatar: 'https://avatarfiles.alphacoders.com/119/thumb-119076.jpg',
+        link: 'https://divya07msd.medium.com/',
+        linktext: 'Follow',
+      },
+      {
+        name: 'Sakthi',
+        avatar: 'https://avatarfiles.alphacoders.com/264/thumb-264313.jpg',
+        link: 'https://divya07msd.medium.com/',
+        linktext: 'Follow',
+      },
+
+      // more avatars: https://avatars.alphacoders.com/avatars/random
     ],
     footer: {
       contact: [

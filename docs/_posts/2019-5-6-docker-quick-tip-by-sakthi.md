@@ -2,9 +2,9 @@
 title: Docker - A Quick Tip
 date: 2020-12-23
 tags: 
-  - theme
-  - blog
-  - vuepress
+  - docker
+  - setup
+  - linux
 author: Sakthi
 featuredimg: 'https://images.unsplash.com/photo-1542903660-eedba2cda473?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1500&q=80'
 summary: Quick tips about Docker

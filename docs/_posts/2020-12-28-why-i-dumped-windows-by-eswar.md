@@ -2,12 +2,12 @@
 title: Why I dumped Windows and switched to Ubuntu?
 date: 2020-12-28
 tags: 
-  - theme
-  - blog
-  - vuepress
+  - ubuntu
+  - linux
+  - windows
 author: Eswara Prasad
 featuredimg: 'https://images.unsplash.com/photo-1518432031352-d6fc5c10da5a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1334&q=80'
-summary: For a moment she wondered how she had happened to wake so early.
+summary: This is how I ditched Windows and embraced Ubuntu
 ---
 
 
