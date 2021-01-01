@@ -104,7 +104,7 @@ module.exports = {
           link: 'http://featurepreneur.com/',
         },
         {
-          text: 'Micro appriciation platform for ML Enthusiasts',
+          text: 'Micro appreciation platform for ML Enthusiasts',
           link: 'http://featurepreneur.com/',
         },
       ],
